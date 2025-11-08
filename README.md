@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daud Khalid
 
-I'm a Computer Science student building across infrastructure and software — from full-stack projects to low-level systems.
+I'm a Computer Science student building across infrastructure and software — from full-stack projects to managing and deploying cloud environments.
 
 🧠 Interests: systems programming, backend engineering, cloud infra, and developer tooling.  
 💻 Languages: Python, C, Java, JavaScript  
