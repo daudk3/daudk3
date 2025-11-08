@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Daud Khalid
 
-I'm a Computer Science student building across infrastructure and software — from full-stack projects to low-level systems.  
-Currently shipping things like [JellyCLI](https://github.com/daudk3/JellyCLI) and a [Flight Management System](https://github.com/daudk3/flight-management-system).
+I'm a Computer Science student building across infrastructure and software — from full-stack projects to low-level systems.
 
 🧠 Interests: systems programming, backend engineering, cloud infra, and developer tooling.  
 💻 Languages: Python, C, Java, JavaScript  
@@ -19,6 +18,6 @@ Currently shipping things like [JellyCLI](https://github.com/daudk3/JellyCLI) an
 
 ---
 
-### 📊 Stats (auto-generated)
+### 📊 Stats
 ![Daud's GitHub stats](https://github-readme-stats.vercel.app/api?username=daudk3&show_icons=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daudk3&layout=compact&theme=transparent&hide_border=true)
