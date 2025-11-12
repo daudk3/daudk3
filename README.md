@@ -4,7 +4,8 @@ I'm a Computer Science student building across infrastructure and software — f
 
 🧠 Interests: systems programming, backend engineering, cloud infra, and developer tooling.  
 💻 Languages: Python, C, Java, JavaScript  
-🧰 Tools: Docker, Linux, Azure, Supabase, React, and Authelia  
+🧰 Tools: Docker, Linux, Azure, Supabase, React, and Authelia
+🏫 Currently Learning: Flutter
 📫 Reach me: [mail@daudkhalid.ca](mailto:mail@daudkhalid.ca)  
 🌐 Portfolio: [daudkhalid.ca](https://daudkhalid.ca)
 
