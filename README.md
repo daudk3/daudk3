@@ -1,13 +1,11 @@
-# 👋 Hi, I'm Daud Khalid
+I'm an aspiring software engineer studying computer science at Wilfrid Laurier Univeristy
 
-I'm a Computer Science student building across infrastructure and software — from full-stack projects to managing and deploying cloud environments.
-
-🧠 Interests: systems programming, backend engineering, cloud infra, and developer tooling.  
-💻 Languages: Python, C, Java, JavaScript  
-🧰 Tools: Docker, Linux, Azure, Supabase, React, and Authelia
-🏫 Currently Learning: Flutter
-📫 Reach me: [mail@daudkhalid.ca](mailto:mail@daudkhalid.ca)  
-🌐 Portfolio: [daudkhalid.ca](https://daudkhalid.ca)
+Interests: systems programming, backend engineering, client-server programming
+Languages: Python, C, Java, JavaScript  
+Tools: React, Node.js, Git, Linux, Supabase, Docker, Bash, REST APIs
+Currently Learning: Flutter
+Reach me: [mail@daudkhalid.ca](mailto:mail@daudkhalid.ca)  
+Website: [daudkhalid.ca](https://daudkhalid.ca)
 
 ---
 
