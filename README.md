@@ -12,7 +12,7 @@ Aspiring software engineer studying computer science at Wilfrid Laurier Universi
 | Project                                                                        | Description                                                 | Stack                       |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------- | --------------------------- |
 | [JellyCLI](https://github.com/daudk3/JellyCLI)                                 | Keyboard-first TUI client for Jellyfin with playback + sync | Python, Textual, mpv        |
-| [Flight Management System](https://github.com/daudk3/flight-management-system) | Full-stack app using Supabase and React                     | React, TypeScript, Supabase |
+| [Flight Management System](https://github.com/daudk3/flight-management-system) | Full-stack app using Supabase and React                     | React, JavaScript, Supabase |
 
 ---
 
