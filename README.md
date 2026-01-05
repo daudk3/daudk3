@@ -1,4 +1,5 @@
 I'm an aspiring software engineer studying computer science at Wilfrid Laurier University<br>
+
 **Interests**: systems programming, backend engineering, client-server programming<br>
 **Languages**: Python, C, Java, JavaScript<br>
 **Tools**: React, Node.js, Git, Linux, Supabase, Docker, Bash, REST APIs<br>
