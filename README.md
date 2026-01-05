@@ -1,9 +1,13 @@
 I'm an aspiring software engineer studying computer science at Wilfrid Laurier Univeristy
 
 **Interests**: systems programming, backend engineering, client-server programming
+
 **Languages**: Python, C, Java, JavaScript
+
 **Tools**: React, Node.js, Git, Linux, Supabase, Docker, Bash, REST APIs
+
 **Reach me**: [mail@daudkhalid.ca](mailto:mail@daudkhalid.ca)  
+
 **Website**: [daudkhalid.ca](https://daudkhalid.ca)
 
 ---
