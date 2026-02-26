@@ -15,7 +15,3 @@ Aspiring software engineer studying computer science at Wilfrid Laurier Universi
 | [Flight Management System](https://github.com/daudk3/flight-management-system) | Full-stack app using Supabase and React                     | React, JavaScript, Supabase |
 
 ---
-
-### Stats
-![Daud's GitHub stats](https://github-readme-stats.vercel.app/api?username=daudk3&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daudk3&layout=compact&theme=transparent&hide_border=true)
