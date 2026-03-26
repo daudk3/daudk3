@@ -1,4 +1,4 @@
-Aspiring software engineer studying computer science at Wilfrid Laurier University.<br>
+Studying computer science at Wilfrid Laurier University.<br>
 
 **Interests**: systems programming, backend engineering, client-server programming<br>
 **Languages**: Python, C, Java, JavaScript<br>
